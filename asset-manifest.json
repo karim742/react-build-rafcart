@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a943fdc8.css",
+    "main.js": "/static/js/main.640c077f.js",
+    "static/js/787.a2cb61a6.chunk.js": "/static/js/787.a2cb61a6.chunk.js",
+    "static/media/banner.jpg": "/static/media/banner.83daa22db7e55f09d2e5.jpg",
+    "static/media/outdoor.jpg": "/static/media/outdoor.6e03b6637025a3c1b1e8.jpg",
+    "static/media/banner-1.jpg": "/static/media/banner-1.c72bf2d1b6a1c2267743.jpg",
+    "static/media/dininig.jpg": "/static/media/dininig.9cb1d900d6e58d5d1134.jpg",
+    "static/media/mattress.jpg": "/static/media/mattress.4c63fe9789c8296fc4de.jpg",
+    "static/media/guyerChair-3.jpg": "/static/media/guyerChair-3.3be5c12f59f2a21e5330.jpg",
+    "static/media/bedroom.jpg": "/static/media/bedroom.52a6e47b655debc8952a.jpg",
+    "static/media/guyerChair-2.jpg": "/static/media/guyerChair-2.03b4a2ffda6b7f90de49.jpg",
+    "static/media/sofa.jpg": "/static/media/sofa.2cda8e5db742cfc49763.jpg",
+    "static/media/guyerChair-1.jpg": "/static/media/guyerChair-1.f43f613e10dd13617933.jpg",
+    "static/media/office.jpg": "/static/media/office.a8a6c7123e437a538d81.jpg",
+    "static/media/guyerChair-4.jpg": "/static/media/guyerChair-4.da3a880952e87671bce1.jpg",
+    "static/media/landscape.png": "/static/media/landscape.890064ccc01904b37e49.png",
+    "static/media/save-money.png": "/static/media/save-money.9a742ac8251fb56a5153.png",
+    "static/media/24-hours-support.png": "/static/media/24-hours-support.ba150f18e44de6e457c0.png",
+    "static/media/paymentMethod.png": "/static/media/paymentMethod.d94da3492e464c4881a2.png",
+    "static/media/mattress.png": "/static/media/mattress.e2219a0ebe0c297d8330.png",
+    "static/media/logo.png": "/static/media/logo.794d800ba75b2a1e1592.png",
+    "static/media/armchair.png": "/static/media/armchair.40a3614805e2962d4481.png",
+    "index.html": "/index.html",
+    "main.a943fdc8.css.map": "/static/css/main.a943fdc8.css.map",
+    "main.640c077f.js.map": "/static/js/main.640c077f.js.map",
+    "787.a2cb61a6.chunk.js.map": "/static/js/787.a2cb61a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a943fdc8.css",
+    "static/js/main.640c077f.js"
+  ]
+}
